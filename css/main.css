@@ -50,7 +50,8 @@
 }
 
 .container p {
-	text-align: left;	
+    text-align: left;
+    font-family: "Times New Roman", Times, serif;
 }
 
 .center-header {
